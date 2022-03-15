@@ -10,7 +10,7 @@ _website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://
+Site published at: https://nuotaikos.github.io/5-nd-kvadratai/
 
 Design: [ND kvadaratai](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
 
